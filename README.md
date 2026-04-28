@@ -1,8 +1,8 @@
 ## Carson Seese
 
-> Full stack engineer specializing in cloud infrastructure, with a background in cybersecurity. Building and
-improving systems is both a hobby and a profession - I am always looking for ways to make the applications
-and systems teams depend on faster, more reliable, and secure by default.
+> Full stack engineer with a specialization in cloud infrastructure and a background in cybersecurity. Building
+and improving systems is both a hobby and a profession - I am always looking for ways to make the
+applications and systems teams depend on faster, more reliable, and secure by default.
 
 📍 South-central Pennsylvania &nbsp;·&nbsp; 🌐 [carsonseese.com](https://carsonseese.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://linkedin.com/in/carsonseese)
 
