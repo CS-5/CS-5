@@ -56,7 +56,7 @@ Engineering Team Lead at **Journalytic** (B2C investment journaling, 10,000+ use
 
 | Project | Stack | About |
 |---|---|---|
-| **[dotfiles](https://github.com/CS-5/dotfiles)** | chezmoi, Mise, Shell | My dev environment configs across machines |
+| **[dotfiles](https://github.com/CS-5/dotfiles)** | chezmoi, Mise, Go templates | My dev environment configs across machines |
 | **[Team4050/HazardScouter](https://github.com/Team4050/HazardScouter)** | Vite, TypeScript, Tailwind, PWA | FRC match-scouting app for *Biohazard* |
 | **[SCSTEM/scstem.org](https://github.com/SCSTEM/scstem.org)** | NextJS, TypeScript, Cloudflare, Tailwind | Landing page for South Central STEM Collective |
 | **[SCSTEM/catalyst](https://github.com/SCSTEM/catalyst.scstem.tech)** | Cloudflare Workers, TypeScript, Tailwind | Slack reaction leaderboard for our students |
