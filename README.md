@@ -41,7 +41,3 @@ Engineering Team Lead at **Journalytic** (B2C investment journaling, 10,000+ use
 - **Homelab**: Multi-node Proxmox cluster, Dell R730xd NAS (TrueNAS), OPNsense (VLANs, IDS/IPS, DoT), Caddy reverse proxy w/ Cloudflare WAF, Home Assistant, monitored with VictoriaMetrics + Grafana + Loki.
 - **Mechanical keyboards**: Dactyl Manuform / Cosmos builds (currently rocking *CSmos*).
 - **3D printing**: Ender 3 Pro running Klipper / Mainsail.
-
----
-
-<sub>`// Last updated: April, 2026`</sub>
